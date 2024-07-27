@@ -104,6 +104,6 @@ cd JimmyShot-main && sudo python3 JimmyX.py -i wlan0 --pbc
  Try running JimmyShot with the `--mtk-wifi` flag to initialize Wi-Fi device driver.
 ```
 ## CONNECT WITH ME :
-<a href="https://github.com/Jimmy7Xd"><img title="Github" src="https://img.shields.io/badge/JIMMY-EXE-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Jimmy-EXE"><img title="Github" src="https://img.shields.io/badge/JIMMY-EXE-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/jimftvamp)
 
