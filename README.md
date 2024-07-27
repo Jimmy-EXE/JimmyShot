@@ -60,7 +60,7 @@ pkg update && pkg upgrade && pkg install -y root-repo && pkg install -y git tsu 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Road+Rage&pause=1000&width=435&lines=First+command+%F0%9F%A4%8C" alt="Typing SVG" /></a>
 
-cd JimmyShot
+cd JimmyShot-main
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Road+Rage&pause=1000&width=435&lines=Second+Command+%F0%9F%91%BB" alt="Typing SVG" /></a>
 
@@ -80,19 +80,19 @@ sudo python3 JimmyX.py -i wlan0 -K (On Linux)
 ## Usage examples
 Start Pixie Dust attack on a specified BSSID:
  ```
-cd JimmyShot && sudo python3 JimmyX.py -i wlan0 -b 00:90:4C:C1:AC:21 -K
+cd JimmyShot-main && sudo python3 JimmyX.py -i wlan0 -b 00:90:4C:C1:AC:21 -K
  ```
 Show avaliable networks and start Pixie Dust attack on a specified network:
  ```
-cd JimmyShot && sudo python3 JimmyX.py -i wlan0 -K
+cd JimmyShot-main && sudo python3 JimmyX.py -i wlan0 -K
  ```
 Launch online WPS bruteforce with the specified first half of the PIN:
  ```
-cd JimmyShot && sudo python3 JimmyX.py -i wlan0 -b 00:90:4C:C1:AC:21 -B -p 1234
+cd JimmyShot-main && sudo python3 JimmyX.py -i wlan0 -b 00:90:4C:C1:AC:21 -B -p 1234
  ```
 Start WPS push button connection:s
  ```
-cd JimmyShot && sudo python3 JimmyX.py -i wlan0 --pbc
+cd JimmyShot-main && sudo python3 JimmyX.py -i wlan0 --pbc
 
 ## Troubleshooting
 #### "RTNETLINK answers: Operation not possible due to RF-kill"
