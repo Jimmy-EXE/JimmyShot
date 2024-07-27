@@ -1,4 +1,10 @@
-Please note that root access is required.   
+## PLEASE NOTE THAT ROOT ACCESS IS REQUIRED :
+<br>
+<p align="center">
+<img width="50%" src="https://i.postimg.cc/zvYBSSwM/New-Project-32-4967282.png"/>
+
+
+ 
 # Overview
 **JimmyShot** performs [Pixie Dust attack](https://forums.kali.org/showthread.php?24286-WPS-Pixie-Dust-Attack-Offline-WPS-Attack) without having to switch to monitor mode.
 # Features
@@ -6,16 +12,19 @@ Please note that root access is required.
  - integrated [3WiFi offline WPS PIN generator](https://3wifi.stascorp.com/wpspin);
  - [online WPS bruteforce](https://sviehb.files.wordpress.com/2011/12/viehboeck_wps.pdf);
  - Wi-Fi scanner with highlighting based on iw;
+
 # Requirements
  - Python 3.6 and above;
  - [Wpa supplicant] (https://www.w1.fi/wpa_supplicant/);
  - [Pixiewps] (https://github.com/wiire-a/pixiewps);
  - [iw] (https://wireless.wiki.kernel.org/en/users/documentation/iw);
+
 #### Manually
 **Installing requirements**
 ```console
 pkg update && pkg upgrade && pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw openssl && termux-setup-storage
  ```
+
 # Usage
 ```
  JimmyX.py <arguments>
@@ -42,6 +51,7 @@ pkg update && pkg upgrade && pkg install -y root-repo && pkg install -y git tsu 
                                 (for internal Wi-Fi adapters implemented in MediaTek SoCs). Turn off Wi-Fi in the system settings before using this.
      -v, --verbose            : Verbose output
  ```
+
 #### Note: 
 + **First turn off your Wifi.**
 + **Turn on Hotspot.**
@@ -64,7 +74,7 @@ sudo python3 JimmyX.py -i wlan0 -K (On Linux)
 <p align="center">
 <img width="50%" src="https://i.postimg.cc/7LLqgtFb/Screenshot-20240728-002124-Net-Hunter-Terminal-2.png"/>
 <img width="46%" src="https://i.postimg.cc/JnDmFD4L/Screenshot-20240715-195005-Net-Hunter-Terminal-2.png"/>
-+ enjoy 🌕👀
++ Enjoy🦋❤️
 
 
 ## Usage examples
@@ -97,7 +107,3 @@ cd JimmyShot && sudo python3 JimmyX.py -i wlan0 --pbc
 <a href="https://github.com/Jimmy7Xd"><img title="Github" src="https://img.shields.io/badge/JIMMY-EXE-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/jimftvamp)
 
-# Acknowledgements
-## Special Thanks <span style='font-size:45px;'>&#128071;</span>
-<a href="#"><img title="JIMMY-WIZ-HERE" src="https://img.shields.io/badge/JIMMY-WIZ-HERE-black?style=for-the-badge&logo=JIMMYFTVAMP"></a>
-## Thanks For Using This Tool <span style='font-size:45px;'>&#128536;</span> <span style='font-size:45px;'>&#128525;</span>
