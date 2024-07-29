@@ -99,7 +99,7 @@ cd JimmyShot-main && sudo python3 JimmyX.py -i wlan0 --pbc
  Just run:
 ```sudo rfkill unblock wifi```
 #### "Device or resource busy (-16)"
- Try disabling Wi-Fi in the system settings and kill the Network manager. Alternatively, you can try running FARHAN-Shot2 with ```--iface-down``` argument.
+ Try disabling Wi-Fi in the system settings and kill the Network manager. Alternatively, you can try running JimmyShotX2 with ```--iface-down``` argument. But its not Finished yet
 #### The wlan0 interface disappears when Wi-Fi is disabled on Android devices with MediaTek SoC
  Try running JimmyShot with the `--mtk-wifi` flag to initialize Wi-Fi device driver.
 ```
